@@ -9,7 +9,7 @@ export const Wrapper = styled.div`
     background: var(--medgrey);
     color: var(--white);
     `;
-
+    
 export const Content = styled.div`
     display:flex;
     width:100%;
